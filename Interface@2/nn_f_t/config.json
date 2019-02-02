@@ -1,0 +1,23 @@
+{
+	"topology": [784 ,10],
+ 
+ 	"learningRate": 0.08,
+
+    "momentum": 1.0,
+
+    "bias": 1.0,
+
+    "epoch": 1,
+
+    "trainingData": "train.csv",
+
+    "labelData": "label.csv",
+
+    "weightsFile": "SaveWeight.json",
+
+    "hiddenactivationtype": 2,
+
+    "outputactivationtype": 3,
+
+    "costfunctiontype": 1
+}

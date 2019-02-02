@@ -1,0 +1,15 @@
+{
+	"topology": [784 , 10],
+ 
+ 	"predectionData": "train.csv",
+
+	"labelFile": "label.csv",
+
+    "weightsFile": "../nn_f_t/SaveWeight.json",
+
+    "hiddenactivationtype": 2,
+
+    "outputactivationtype": 3,
+
+    "costfunctiontype": 1
+}
